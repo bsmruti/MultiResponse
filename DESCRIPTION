@@ -1,0 +1,12 @@
+Package: MultiResponse
+Type: Package
+Title: Generates Frequencies and Crosstabs for MultiResponse Data.
+Version: 0.1.0
+Author: Smruti Bulsari, Kiran Pandya
+Maintainer: Smruti Bulsari <bsmruti@hotmail.com>
+Description: This package contains two functions: 
+  one for generating frequencies and percentages of multiresponse data and
+  another generates crosstabulations of multiresponse data with other categorical variables.
+License: GPL-2
+Encoding: UTF-8
+LazyData: FALSE
