@@ -1,0 +1,11 @@
+## README
+
+Repository of R Package for Multiresponse function.
+
+In survey research, more often that not, the respondent is asked to select more than one responses to a question. Therefore, the term, "Multi-Response".
+
+In such situation, each response is treated as one variable, and if selected, it is coded as 1 and 0, otherwise. Thus, the response becomes the variable and each variable has a binary code (0 and 1).
+
+We are interested analysing the responses to that question and therefore, we count all those responses coded as 1. These counts become multi-response frequencies, and we can also work out the multi-response percentages. The major difference between multi-response percentages and single-response (the simple) percentages is that, multi-response percentages may add to more than 100%.
+
+This function helps eliciting the frequencies and percentages of such responses. 
