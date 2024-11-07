@@ -7,6 +7,6 @@ Maintainer: Smruti Bulsari <bsmruti@hotmail.com>
 Description: This package contains two functions: 
   one for generating frequencies and percentages of multiresponse data and
   another generates crosstabulations of multiresponse data with other categorical variables.
-License: GPL-2
+License: CC-BY
 Encoding: UTF-8
 LazyData: FALSE
